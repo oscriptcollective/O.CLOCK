@@ -50,7 +50,7 @@ The derivation uses standard group theory and the spinor double-cover property o
 | Paper | Description |
 | ----- | ----- |
 | [O.CLOCK\_1\_Classification.md](https://claude.ai/chat/papers/O.CLOCK_1_Classification.md) | Residue classification of all 21 Standard Model fermions. Central result: exact chirality separation at p ≈ 10⁻⁷. |
-| [O.CLOCK\_2\_Koide.md](https://claude.ai/chat/papers/O.CLOCK_2_Koide.md) | Derivation of the Koide lepton mass phase from clock primes. Match to within 0.00003°. |
+| [O.CLOCK\_2\_Koide.md](https://claude.ai/chat/papers/O.CLOCK_2_Koide.md) | The Koide lepton mass phase matches a clock prime expression (5 + 1/11) × 2.5° to within 0.00003°. Observed match noted as a suggestive pattern, not a derivation from first principles.|
 | [O.CLOCK\_3\_Synthesis.md](https://claude.ai/chat/papers/O.CLOCK_3_Synthesis.md) | Full synthesis: 144-clock derivation, fermion classification, geometric extensions, empirical tests, open questions. |
 | [OCharter.md](https://claude.ai/chat/papers/OCharter.md) | Philosophical companion. This work is rooted in a conviction that understanding coherence in nature can help build more coherent systems — for all systems. |
 
